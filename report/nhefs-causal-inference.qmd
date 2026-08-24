@@ -1,0 +1,23 @@
+---
+title: "NHEFS Causal Inference Analysis"
+author: "Ola"
+format: html
+---
+
+# Question
+
+# Estimand
+
+# DAG
+
+# Identification Assumptions
+
+# Component A: Methods
+
+# Component A: Results
+
+# Component B: DGP
+
+# Component B: Results
+
+# Limitations
